@@ -1,0 +1,14 @@
+C:\Users\Joshua\Desktop\My_folders\EFCORE\LEARN_EFCORE\bin\Debug\net8.0\LEARN_EFCORE.exe
+C:\Users\Joshua\Desktop\My_folders\EFCORE\LEARN_EFCORE\bin\Debug\net8.0\LEARN_EFCORE.deps.json
+C:\Users\Joshua\Desktop\My_folders\EFCORE\LEARN_EFCORE\bin\Debug\net8.0\LEARN_EFCORE.runtimeconfig.json
+C:\Users\Joshua\Desktop\My_folders\EFCORE\LEARN_EFCORE\bin\Debug\net8.0\LEARN_EFCORE.dll
+C:\Users\Joshua\Desktop\My_folders\EFCORE\LEARN_EFCORE\bin\Debug\net8.0\LEARN_EFCORE.pdb
+C:\Users\Joshua\Desktop\My_folders\EFCORE\LEARN_EFCORE\obj\Debug\net8.0\LEARN_EFCORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshua\Desktop\My_folders\EFCORE\LEARN_EFCORE\obj\Debug\net8.0\LEARN_EFCORE.AssemblyInfoInputs.cache
+C:\Users\Joshua\Desktop\My_folders\EFCORE\LEARN_EFCORE\obj\Debug\net8.0\LEARN_EFCORE.AssemblyInfo.cs
+C:\Users\Joshua\Desktop\My_folders\EFCORE\LEARN_EFCORE\obj\Debug\net8.0\LEARN_EFCORE.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\Desktop\My_folders\EFCORE\LEARN_EFCORE\obj\Debug\net8.0\LEARN_EFCORE.dll
+C:\Users\Joshua\Desktop\My_folders\EFCORE\LEARN_EFCORE\obj\Debug\net8.0\refint\LEARN_EFCORE.dll
+C:\Users\Joshua\Desktop\My_folders\EFCORE\LEARN_EFCORE\obj\Debug\net8.0\LEARN_EFCORE.pdb
+C:\Users\Joshua\Desktop\My_folders\EFCORE\LEARN_EFCORE\obj\Debug\net8.0\LEARN_EFCORE.genruntimeconfig.cache
+C:\Users\Joshua\Desktop\My_folders\EFCORE\LEARN_EFCORE\obj\Debug\net8.0\ref\LEARN_EFCORE.dll

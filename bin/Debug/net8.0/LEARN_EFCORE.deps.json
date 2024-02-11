@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LEARN_EFCORE/1.0.0": {
+        "runtime": {
+          "LEARN_EFCORE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LEARN_EFCORE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
