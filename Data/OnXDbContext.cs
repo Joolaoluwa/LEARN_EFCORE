@@ -10,10 +10,6 @@ namespace LEARN_EFCORE.Data;
 public class OnXDbContext : DbContext
 {
         private readonly string dbConnectionStringBuilder = "server=localhost;database=OnXDb;User=root;Password=Jolaoluwa2002@";
-        public OnXDbContext(DbContextOptions<OnXDbContext> options) : base(options)
-        {
-            
-        }
         public DbSet<User> User {get; set;} = null!;
         public DbSet<Order> Order {get; set;} = null!;
         public DbSet<OrderDetail> OrderDetail {get; set;} = null!;
